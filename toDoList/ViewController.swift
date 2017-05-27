@@ -72,7 +72,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         
         cc.codigo = codigoDos.isbn!
         }
-        // cc.codigo = self.ciudades[ip!.row][1]
+        
         
         // Get the new view controller using segue.destinationViewController.
         // Pass the selected object to the new view controller.
